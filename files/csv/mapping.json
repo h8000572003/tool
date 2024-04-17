@@ -1,0 +1,1 @@
+{"config":{"encoding":"big5","separated":"~@","strict":false,"encoding-dynamic-by-fileName":{".*":"big5"}},"section":{"SAMPLE1.*":["辨識控制碼1","異動別(訊息功能代碼)","訊息編號"]},"memo":{"byFileName":"顯示檔案名={}%'; ","item":{"SAMPLE1.*":[{"抓取訊息編號":["訊息編號"]}]}}}

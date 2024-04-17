@@ -1,0 +1,1 @@
+{"config":{"encoding":"big5","cut":"byte","encoding-dynamic-by-fileName":{"BIG5.*":"big5","UTF.*":"utf-8"}},"section":{"SAMPLE1.*":{"自訂1":7,"自訂2":8,"自訂3":8},"SAMPLE2.*":{"自訂1":7,"自訂2":8,"自訂3":8}},"memo":{"byFileName":"這是檔名{} ","item":{"SAMPLE1.*":[{"這可以寫個sql:'{}'":["自訂1"]}]}}}
