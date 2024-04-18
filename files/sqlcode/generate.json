@@ -1,0 +1,1 @@
+{"DRIVER":"oracle.jdbc.driver.OracleDriver","URL":"jdbc:oracle:thin:@","USERNAME":"","PASSOWRD":"","EXPORT_URL":"./","PO_SUFFIX":"Po","MAPPER_SUFFIX":"Mapper","PO_PACKAGE":"domain","MAPPER_PACKAGE":"mapper"}
